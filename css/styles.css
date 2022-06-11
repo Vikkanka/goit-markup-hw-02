@@ -101,7 +101,7 @@ body {
 }
 .button:hover,
 .button:focus {
-  background-color: green;
+  background-color: #188CE8;
 }
 .section-skills {
   background-color: #e5e5e5;
